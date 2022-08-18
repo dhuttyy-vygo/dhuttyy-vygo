@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dominic Hutson
+- 👋 Hi, I’m @Dommyhut
 - 👀 I’m interested in front-end animations & UX Design
 - 🌱 I’m currently learning JS & React
 - 💞️ I’m looking to collaborate on any front-end web app
